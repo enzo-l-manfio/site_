@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    font-family: "Manrope", sans-serif;
+}
+
+header {
+    display: flex;
+    gap: 200px;
+    padding: 2rem;
+    background-color:rgb(2, 2, 68);
+}
+
+main{
+    display: grid;
+    place-items: center;
+    padding: 2rem;
+    text-align: center;
+    gap: 25%;
+}
+
+h2 {
+    color:rgb(62, 98, 255)
+}
